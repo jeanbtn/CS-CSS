@@ -126,7 +126,8 @@ h3 {
  .frtr{
    position: absolute;
    left: 20px;
-   top: 2600px;
+   top: 26
+   2550px;
  }
  .pstn{
  position: absolute;
@@ -167,5 +168,10 @@ h3 {
    position: absolute;
    left: 20px;
    top: 2300px;
+ }
+ img {
+   position: absolute;
+   width: 100px;
+   left: 150px;
  }
 }
