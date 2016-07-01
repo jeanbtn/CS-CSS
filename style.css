@@ -122,11 +122,50 @@ h3 {
    position: absolute;
    left: 20px;
    top: 400px;
-
  }
-
-
+ .frtf{
+   position: absolute;
+   left: 20px;
+   top: 600px;
+ }
+ .pstn{
+ position: absolute;
+ left: 20px;
+ top: 700px;
   }
-
-
+ .dmsn{
+   position: absolute;
+   left: 20px;
+   top: 1000px;
+ }
+ .tablo {
+   position: absolute;
+   left: 20px;
+   top: 1200px;
+ }
+ .clr{
+   position: absolute;
+   left: 20px;
+   top: 1400px;
+ }
+ .txt{
+   position: absolute;
+   left: 20px;
+   top: 1600px;
+ }
+ .pgnt{
+   position: absolute;
+   left: 20px;
+   top: 1850px;
+ }
+ .plc{
+   position: absolute;
+   left: 20px;
+   top: 2100px;
+ }
+ .dvrs{
+   position: absolute;
+   left: 20px;
+   top: 2300px;
+ }
 }
