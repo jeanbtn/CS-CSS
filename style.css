@@ -112,8 +112,21 @@ h3 {
 }
 
 @media screen and (min-width: 300px) and (max-width: 600px) {
-  .rspz{
-    display: block;
+
+ .slctr{
+   position: absolute;
+   left: 20px;
+   top: 200px;
+ }
+ .boit{
+   position: absolute;
+   left: 20px;
+   top: 400px;
+
+ }
+
+
   }
+
 
 }
