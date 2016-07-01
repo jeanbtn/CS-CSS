@@ -1,0 +1,112 @@
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 150px;
+  background-color: #FF6D00;
+  margin-left: 0;
+  border-top: 5px #0060D9 solid;
+  border-bottom: 5px #0060D9 solid;
+}
+
+ul {
+  list-style-type: none;
+}
+.slctr {
+  position: absolute;
+  left: 150px;
+  top: 200px;
+  font-family: Fjalla One;
+}
+
+.boit {
+  position: absolute;
+  left: 450px;
+  top: 200px;
+  font-family: Fjalla One;
+}
+
+.frtr{
+  position: absolute;
+  left: 1000px;
+  top: 200px;
+  font-family: Fjalla One;
+}
+
+img{
+  position: absolute;
+  left: 680px;
+}
+
+h1{
+  text-align: center;
+  font-family: Fjalla One;
+  color: #3CB2FF;
+}
+
+.pstn{
+  position: absolute;
+  left: 1300px;
+  top: 200px;
+  font-family: Fjalla One;
+}
+
+.dmsn{
+  position: absolute;
+  left: 150px;
+  top: 530px;
+  font-family: Fjalla One;
+}
+
+.tablo{
+  position: absolute;
+  left: 450px;
+  top: 530px;
+  font-family: Fjalla One;
+}
+
+.clr{
+  position: absolute;
+  left: 1000px;
+  top: 530px;
+  font-family: Fjalla One;
+}
+
+.txt{
+  position: absolute;
+  left: 1300px;
+  top: 530px;
+  font-family: Fjalla One;
+}
+
+.pgnt{
+  position: absolute;
+  left: 1300px;
+  top: 800px;
+  font-family: Fjalla One;
+}
+
+.plc{
+  position: absolute;
+  left: 450px;
+  top: 800px;
+  font-family: Fjalla One;
+}
+
+.dvrs{
+  position: absolute;
+  left: 1000px;
+  top: 800px;
+  font-family: Fjalla One;
+}
+
+
+body{
+  background-color: #3CB2FF;
+}
+
+h3 {
+  text-decoration: underline;
+}
